@@ -1,0 +1,6 @@
+deepagents>=0.7
+langchain>=1.0
+langchain-google-genai>=4.0
+python-dotenv>=1.0
+requests>=2.32
+streamlit>=1.50
